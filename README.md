@@ -1,2 +1,2 @@
 # gameswithjs
-A memory game with using js
+Games with js using Ania Kubow's game tutorials.
